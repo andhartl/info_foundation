@@ -43,7 +43,7 @@ Items with @ are public
     - [actions](https://trello.com/b/ZHo6yKPn/tfgridaction)
 - [google drive home](https://drive.google.com/drive/folders/18pxbdERI3OGLgAjgkWhdK1bR5S3A9YtM)
     - [home page](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
-- [wiki](https://github.com/threefoldfoundation/info_grid)
+- [wiki](https://threefoldfoundation.github.io/info_grid/#/)
     
 ## ThreeFold Fund (Chris)
 
