@@ -40,7 +40,7 @@ Items with @ are public
 - [Trello: https://trello.com/tf_grid](https://trello.com/tf_grid)
     - [website roadmap @](https://trello.com/invite/b/qEqnHMKb/ab0e04a4c5ff7535d9a989f9d723a391/tfwebsiteroadmap)
     - [business development](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
-    - [actions](https://trello.com/b/ZHo6yKPn/tfgridaction)
+    - [actions](https://trello.com/b/O6WOKPlY/tfgridactions)
 - [google drive home](https://drive.google.com/drive/folders/18pxbdERI3OGLgAjgkWhdK1bR5S3A9YtM)
     - [home page](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
 - [wiki](https://github.com/threefoldfoundation/info_grid)
